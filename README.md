@@ -1,7 +1,7 @@
 # Python Module 01
 
 ## Overview
-Welcome to **Python Module 01: Memory Management, Object-Oriented Basics, and Functional Programming Concepts**. This module introduces key Python programming concepts while adapting from C++ paradigms to Python's simpler and more intuitive approach. Each exercise focuses on practical coding techniques, helping you understand Python's core features.
+Welcome to **Python Module 01: Memory Management, Object-Oriented Basics, and Functional Programming Concepts**. This module introduces key Python programming concepts. Each exercise focuses on practical coding techniques, helping you understand Python's core features.
 
 ---
 
