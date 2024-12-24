@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 def replace_in_file(filename: str, search: str, replace: str):
     """
     Replace all occurrences of a string in a file with another string.
